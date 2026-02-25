@@ -1,6 +1,6 @@
 ## Hi there 👋,
 
-- ⚡ Fun fact: This would be my new domain because life happened to my main account Linked [Here](https://github.com/geemanji).
+- ⚡ Fun fact: This would be my new domain because life happened to my main account linked [Here](https://github.com/geemanji).
 - 💬 Let's git it 😄.
 <!--
 **gar-stack/gar-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
